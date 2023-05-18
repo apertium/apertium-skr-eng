@@ -1,0 +1,10 @@
+{
+    "skr-eng": {
+        "input": "skr-eng-input.txt",
+        "mode": "skr-eng"
+    },
+    "eng-skr": {
+        "input": "eng-skr-input.txt",
+        "mode": "eng-skr"
+    }
+}
